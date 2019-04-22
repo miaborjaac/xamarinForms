@@ -17,41 +17,17 @@ namespace FirstProject
         {
             InitializeComponent();
         }
-        //private void button_clicked(object sender, eventargs e)
-        //{
-        //    if (!string.isnullorwhitespace(nameentry.text))
-        //    {
-        //        greetinglabel.text = $"hello {nameentry.text}, welcome to 10 days of xamarin.";
-        //    }
-        //    else
-        //    {
-        //        displayalert("error", "your name can't be empty", "oh right");
-        //        greetinglabel.text = $"";
-        //    }
-
-        void Save_Clicked(object sender, EventArgs e)
+        private void Button_Clicked(object sender, EventArgs e)
         {
-            titleExperience.Text = $"";
-            contentExperience.Text = string.Empty;
-        }
-
-        private void EnabledOrDisabledBtn()
-        {
-            saveBtn.IsEnabled = false;
-            if(!string.IsNullOrWhiteSpace(titleExperience.Text) && !string.IsNullOrWhiteSpace(contentExperience.Text))
+            if (!string.IsNullOrWhiteSpace(nameEntry.Text))
             {
-                saveBtn.IsEnabled = true;
+                greetingLabel.Text = $"hello {nameEntry.Text}, welcome to 10 days of xamarin.";
             }
-        }
-
-        private void TitleExperience_TextChanged(object sender, TextChangedEventArgs e)
-        {
-            EnabledOrDisabledBtn();
-        }
-
-        private void ContentExperience_TextChanged(object sender, TextChangedEventArgs e)
-        {
-            EnabledOrDisabledBtn();
+            else
+            {
+                DisplayAlert("error", "your name can't be empty", "oh right");
+                greetingLabel.Text = $"";
+            }
         }
     }
 }

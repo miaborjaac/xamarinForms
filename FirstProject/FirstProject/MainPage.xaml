@@ -5,23 +5,12 @@
              x:Class="FirstProject.MainPage">
 
     <StackLayout Margin="16,20,16,0">
-        <!-- Place new controls here -->
-        <Entry Placeholder="Title of experience..." 
-               x:Name="titleExperience" 
-               Style="{StaticResource mainTitleStyle}"
-               TextChanged="TitleExperience_TextChanged"/>
-        <Editor Placeholder="Content of experience"
-                VerticalOptions="FillAndExpand"
-                x:Name="contentExperience" 
-                Style="{StaticResource mainContentStyle}"
-                TextChanged="ContentExperience_TextChanged"/>
-        <Button Text="Save" 
-                x:Name="saveBtn"
-                Style="{StaticResource mainButtonStyle}"
-                IsEnabled="false"
-                Clicked="Save_Clicked"/>
-        <Button Text="Cancel" 
-                Style="{StaticResource cancelButtonStyle}"
-                x:Name="cancelBtn"/>
+        <Entry x:Name="nameEntry"
+               Placeholder="Your name is..."/>
+        <Button Clicked="Button_Clicked"
+                Text="Say hello"/>
+        <Label x:Name="greetingLabel"
+               Text="Hello stranger, welcome to 10 Days of Xamarin."
+               FontSize="20"/>
     </StackLayout>
 </ContentPage>

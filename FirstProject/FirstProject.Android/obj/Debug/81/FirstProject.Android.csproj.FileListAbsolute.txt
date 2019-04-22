@@ -362,7 +362,6 @@ C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\o
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\FormsViewGroup.dll
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\FormsViewGroup.pdb
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\Java.Interop.dll
-C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\machine.config
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\Mono.Android.dll
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\Mono.Android.pdb
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\Mono.Security.dll
@@ -388,7 +387,6 @@ C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\o
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\System.Numerics.Vectors.dll
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\System.Numerics.Vectors.pdb
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\System.pdb
-C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\System.Runtime.dll
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
@@ -432,9 +430,10 @@ C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\o
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\stamp\_BuildAdditionalResourcesCache.stamp
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\stamp\_CleanIntermediateIfNuGetsChange.stamp
-C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\stamp\_CompileToDalvik.stamp
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\stamp\_CopyIntermediateAssemblies.stamp
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\stamp\_CopyMdbFiles.stamp
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\stamp\_CopyPdbFiles.stamp
-C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\machine.config
+C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\stamp\_CompileToDalvik.stamp
+C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp
