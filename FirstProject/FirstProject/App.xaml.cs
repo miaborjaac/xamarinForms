@@ -6,6 +6,17 @@ namespace FirstProject
 {
     public partial class App : Application
     {
+        public static string DatabasePath;
+
+        public App(string databasePath)
+        {
+            InitializeComponent();
+
+            MainPage = new MainPage();
+
+            DatabasePath = databasePath;       
+        }
+
         public App()
         {
             InitializeComponent();
