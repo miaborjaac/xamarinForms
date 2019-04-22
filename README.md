@@ -1,6 +1,6 @@
 # xamarinForms
 
-Este repositorio muestra un pequeño tutorial hecho en https://10daysofxamarin.blog
+This repository shows a basic tutorial done in https://10daysofxamarin.blog
 
 The content of tutorial excercises are in their respective branches:
 
