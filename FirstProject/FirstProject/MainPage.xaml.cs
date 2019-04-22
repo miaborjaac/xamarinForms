@@ -17,18 +17,7 @@ namespace FirstProject
         {
             InitializeComponent();
         }
-        //private void button_clicked(object sender, eventargs e)
-        //{
-        //    if (!string.isnullorwhitespace(nameentry.text))
-        //    {
-        //        greetinglabel.text = $"hello {nameentry.text}, welcome to 10 days of xamarin.";
-        //    }
-        //    else
-        //    {
-        //        displayalert("error", "your name can't be empty", "oh right");
-        //        greetinglabel.text = $"";
-        //    }
-
+        
         void Save_Clicked(object sender, EventArgs e)
         {
             titleExperience.Text = $"";
