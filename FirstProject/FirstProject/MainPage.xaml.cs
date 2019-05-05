@@ -1,4 +1,6 @@
-﻿using System;
+﻿using FirstProject.Models;
+using SQLite;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -17,17 +19,11 @@ namespace FirstProject
         {
             InitializeComponent();
         }
-        
-        void Save_Clicked(object sender, EventArgs e)
-        {
-            titleExperience.Text = $"";
-            contentExperience.Text = string.Empty;
-        }
 
         private void EnabledOrDisabledBtn()
         {
             saveBtn.IsEnabled = false;
-            if(!string.IsNullOrWhiteSpace(titleExperience.Text) && !string.IsNullOrWhiteSpace(contentExperience.Text))
+            if (!string.IsNullOrWhiteSpace(titleExperience.Text) && !string.IsNullOrWhiteSpace(contentExperience.Text))
             {
                 saveBtn.IsEnabled = true;
             }
@@ -41,6 +37,35 @@ namespace FirstProject
         private void ContentExperience_TextChanged(object sender, TextChangedEventArgs e)
         {
             EnabledOrDisabledBtn();
+        }
+
+        void Save_Clicked(object sender, EventArgs e)
+        {
+            Experience newExperience = new Experience()
+            {
+                Title = titleExperience.Text,
+                Content = contentExperience.Text,
+                CreatedAt = DateTime.Now,
+                UpdatedAt = DateTime.Now
+            };
+
+            int countItems = 0;
+            using (SQLiteConnection conn = new SQLiteConnection(App.DatabasePath))
+            {
+                conn.CreateTable<Experience>();
+                countItems = conn.Insert(newExperience);
+            }
+
+            if(countItems > 0)
+            {
+                titleExperience.Text = string.Empty;
+                contentExperience.Text = string.Empty;
+            }
+            else
+            {
+                DisplayAlert("Error", "Error creando la experiencia, intente de nuevo", "Aceptar");
+            }
+            Console.WriteLine("Itemssss: " + countItems);
         }
     }
 }
