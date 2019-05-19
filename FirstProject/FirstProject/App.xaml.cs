@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FirstProject.Views;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -12,16 +13,16 @@ namespace FirstProject
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            DatabasePath = databasePath;
 
-            DatabasePath = databasePath;       
+            MainPage = new NavigationPage(new ExperiencePage());
         }
 
         public App()
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new ExperiencePage());
         }
 
         protected override void OnStart()
