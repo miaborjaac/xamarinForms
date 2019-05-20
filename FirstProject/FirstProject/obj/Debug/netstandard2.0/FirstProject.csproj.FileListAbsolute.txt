@@ -13,13 +13,12 @@ C:\Users\migue\source\repos\FirstProject\FirstProject\FirstProject\obj\Debug\net
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject\bin\Debug\netstandard2.0\FirstProject.deps.json
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject\bin\Debug\netstandard2.0\FirstProject.dll
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject\bin\Debug\netstandard2.0\FirstProject.pdb
-C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject\obj\Debug\netstandard2.0\FirstProject.csprojAssemblyReference.cache
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject\obj\Debug\netstandard2.0\FirstProject.csproj.CoreCompileInputs.cache
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject\obj\Debug\netstandard2.0\FirstProject.AssemblyInfoInputs.cache
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject\obj\Debug\netstandard2.0\FirstProject.AssemblyInfo.cs
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject\obj\Debug\netstandard2.0\FirstProject.dll
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject\obj\Debug\netstandard2.0\FirstProject.pdb
-C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject\obj\Debug\netstandard2.0\Views\ExperiencePage.xaml.g.cs
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject\obj\Debug\netstandard2.0\FirstProject.csprojAssemblyReference.cache

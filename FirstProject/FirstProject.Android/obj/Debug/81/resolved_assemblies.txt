@@ -4,6 +4,8 @@ C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\o
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\Java.Interop.dll
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\Mono.Android.dll
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\mscorlib.dll
+C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\Plugin.CurrentActivity.dll
+C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\Plugin.Permissions.dll
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\SQLite-net.dll
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\SQLitePCLRaw.batteries_green.dll
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.Android\obj\Debug\81\android\assets\SQLitePCLRaw.batteries_v2.dll

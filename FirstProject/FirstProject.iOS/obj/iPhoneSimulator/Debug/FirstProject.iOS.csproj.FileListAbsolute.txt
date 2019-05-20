@@ -117,3 +117,9 @@ C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.iOS\obj\i
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.iOS\obj\iPhoneSimulator\Debug\FirstProject.iOS.csproj.CopyComplete
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.iOS\obj\iPhoneSimulator\Debug\FirstProject.iOS.exe
 C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.iOS\obj\iPhoneSimulator\Debug\FirstProject.iOS.pdb
+C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
+C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
+C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
+C:\Users\migue\Documents\GitHub\xamarinForms\FirstProject\FirstProject.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.sqlite3.dll
